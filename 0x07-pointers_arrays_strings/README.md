@@ -1,1 +1,1 @@
-A readme file for 0x07-pointers_arrays_strings
+A readme file for 0x07-pointer_arrays_strings
